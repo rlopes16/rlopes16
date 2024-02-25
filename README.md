@@ -2,7 +2,7 @@
 # Hello, Devs!!! 🌎
 
 <div align="center">
-  <img src="https://github.com/rlopes16/rlopes16/assets/121831380/152cfb8a-b97c-4ad7-9804-2d7883e6be30)" width="300px">
+  <img src="https://github.com/rlopes16/rlopes16/assets/121831380/9b973c33-f3a5-44a2-be50-ebfff5c00de1" width="300px">
 </div>
 
 Atualmente estou estudando para dar início à minha carreira, adquirindo meus conhecimentos na Escola DNC.<br> E aqui, no github estarei colocando alguns projetos e desafios que estarei realizando.
