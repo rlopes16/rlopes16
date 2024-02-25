@@ -1,16 +1,35 @@
-### Hi there 👋
+# Ruan 🧑🏾‍💻
+# Hello, Devs!!! 🌎
 
-<!--
-**rlopes16/rlopes16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github.com/rlopes16/rlopes16/assets/121831380/152cfb8a-b97c-4ad7-9804-2d7883e6be30)" width="300px">
+</div>
 
-Here are some ideas to get you started:
+Atualmente estou estudando para dar início à minha carreira, adquirindo meus conhecimentos na Escola DNC.<br> E aqui, no github estarei colocando alguns projetos e desafios que estarei realizando.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Ferramentas e Tecnologias 🤖
+
+<div style="display: flex; justify-content:space-between;">
+  <figure style="text-align:center; flex:1;">
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />                  
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  </figure>
+</div>
+<br>
+
+# Estou aprendendo 📚
+<div style="display: flex; justify-content:space-between;">
+  <figure style="text-align:center; flex:1;">
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />          
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />         
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> 
+  </figure>
+</div>
+
+# Contatos 
+<div>
+  <a href="https://www.linkedin.com/in/ruanslopes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/r.lopes16" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
